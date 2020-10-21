@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InstaApp</string>
+    <!--    Bottom Navigation-->
+    <string name="nav_home">Home</string>
+    <string name="nav_hashtag">Explore</string>
+    <string name="nav_add">Tambah</string>
+    <string name="nav_like">Like</string>
+    <string name="nav_akun">Profil</string>
+
+    <string name="base_url">https://descolab.000webhostapp.com/instaapp/api/</string>
+
+    <string name="text_comment">Komentar</string>
+    <string name="text_write_comment">Tulis Komentar</string>
+    <string name="text_send">Kirim</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='InstaApp-Android-Clone'
+include ':app'
